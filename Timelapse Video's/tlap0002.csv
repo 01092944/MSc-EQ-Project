@@ -1,0 +1,5 @@
+﻿yyyy.mm.dd,hh.mm.ss.ss,lat,lon,depth,ML,Nsta,RMS,intensity,induced,locality,county
+30/01/1980, 02:58:00.0,51.65,-2.88,NA,1.7,NA,NA, ,NA, NEWPORT_AREA,
+07/02/1980, 05:17:00.0,51.65,-2.85,NA,2.4,NA,NA,3,NA, NEWPORT_AREA,
+07/02/1980, 11:27:00.0,51.65,-2.82,NA,2.1,NA,NA,3,NA, NEWPORT_AREA,
+22/02/1980, 14:04:00.0,51.65,-2.83,NA,2.2,NA,NA, ,NA, NEWPORT_AREA,
